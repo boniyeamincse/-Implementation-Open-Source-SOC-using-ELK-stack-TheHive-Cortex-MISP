@@ -1,0 +1,1 @@
+# -Implementation-Open-Source-SOC-using-ELK-stack-TheHive-Cortex-MISP
